@@ -26,7 +26,8 @@ C --> D
 ### Server
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,heroku)](https://skillicons.dev)
 
-[![frame318's GitHub | Languages Over Time](https://stats.quine.sh/frame318/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=frame318)
+[![frame318's GitHub | Languages Over Time](https://stats.quine.sh/frame318/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fF-318)
+[![frame318's GitHub | Stats](https://stats.quira.sh/frame318/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=fF-318)
 
 <a href="https://app.daily.dev/framef318"><img src="https://api.daily.dev/devcards/v2/dmSGL6sKz6O4RK8SN9ec4.png?type=wide&r=o1g" width="652" alt="fF's Dev Card"/></a>
 
