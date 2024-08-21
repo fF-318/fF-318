@@ -16,9 +16,9 @@ C --> D
 ### OS
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi)](https://skillicons.dev)
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dart,ts,js,html,css)](https://skillicons.dev)
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=django,nuxtjs,vue,tailwind,bootstrap,vuetify,alpinejs,flask,htmx,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flutter,nuxtjs,vue,tailwind,bootstrap,vuetify,alpinejs,flask,htmx,jquery)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 ### Tool
