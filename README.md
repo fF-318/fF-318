@@ -22,7 +22,7 @@ C --> D
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,pinia,postman,rocket,sentry,cloudflare,nginx,grafana,redis,graphql,powershell,firebase,supabase,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,vscode,pinia,postman,rocket,sentry,cloudflare,nginx,grafana,redis,graphql,powershell,firebase,supabase,stackoverflow)](https://skillicons.dev)
 ### Server
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,heroku)](https://skillicons.dev)
 
