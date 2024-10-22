@@ -8,7 +8,7 @@ A --> C(Backend Developer)
 B --> D{🌱🦉}
 C --> D
 ```
-> [!TIP]
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://skillicons.dev)
