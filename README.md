@@ -9,7 +9,6 @@ B --> D{🌱🦉}
 C --> D
 ```
 > [!TIP]
-> "It's just the waiting of one person." ❤🌱🦉
 
 
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://skillicons.dev)
